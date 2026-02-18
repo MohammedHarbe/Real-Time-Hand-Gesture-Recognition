@@ -1,0 +1,12 @@
+{
+  "optionA": {
+    "accuracy": 0.9772727272727273,
+    "macro_f1": 0.9779710144927536,
+    "best_weights": "C:\\Users\\mohamed harbe\\runs\\classify\\runs_amIT\\OptionA_YOLOv8n_cls\\weights\\best.pt"
+  },
+  "optionB": {
+    "accuracy": 0.9166666666666666,
+    "macro_f1": 0.9252747252747253,
+    "model": "Pipeline"
+  }
+}

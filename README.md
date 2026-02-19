@@ -5,6 +5,7 @@ Graduation Project – AMIT AI Engineering Track
 This project implements a real-time hand gesture recognition system using two different AI approaches:
 
 1️⃣ Option A – Deep Learning (YOLO Classifier)
+
 2️⃣ Option B – Landmark-Based ML (MediaPipe + Scikit-Learn)
 
 The system performs:
@@ -134,5 +135,6 @@ AI Engineering – AMIT
 Graduation Project 2026
 
 📜 License
+
 
 Academic use only – Graduation Project

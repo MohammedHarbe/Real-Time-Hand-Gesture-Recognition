@@ -53,6 +53,7 @@ Model: Scikit-learn Pipeline (StandardScaler + Classifier)
 Lightweight & CPU-friendly
 
 📂 Project Structure
+
 Hand-Gesture-AMIT
 │
 ├── notebooks/
@@ -70,7 +71,9 @@ Hand-Gesture-AMIT
 │   └── settings.json
 │
 └── README.md
+
 ⚙️ Installation
+
 1️⃣ Create Conda Environment
 conda create -n handai python=3.10 -y
 conda activate handai
@@ -138,3 +141,4 @@ Graduation Project 2026
 
 
 Academic use only – Graduation Project
+
